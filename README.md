@@ -26,7 +26,7 @@ Apresentar um painel de controle intuitivo e profissional, voltado para análise
 
 ## 🖼️ Visão Geral do Dashboard
 
-<img src="screenshot_ecommerce" alt="Dashboard Power BI" width="800"/>
+<img src="screenshot_ecommerce.png" alt="Dashboard Power BI" width="800"/>
 
 ---
 
